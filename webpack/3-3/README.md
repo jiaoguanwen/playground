@@ -1,0 +1,1 @@
+plugin, 编译ES6
