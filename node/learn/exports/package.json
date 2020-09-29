@@ -1,0 +1,7 @@
+{
+  "name": "exports-test",
+  "description": "exports-test",
+  "dependencies": {
+    "colors": "~1.3.2"
+  }
+}
