@@ -1,0 +1,16 @@
+09:49:19.891 INFO - Selenium build info: version: '3.9.1', revision: '63f7b50'
+09:49:19.892 INFO - Launching a standalone Selenium Server on port 4444
+2019-04-17 09:49:20.036:INFO::main: Logging initialized @361ms to org.seleniumhq.jetty9.util.log.StdErrLog
+2019-04-17 09:49:20.185:INFO:osjs.Server:main: jetty-9.4.7.v20170914, build timestamp: 2017-11-22T05:27:37+08:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2019-04-17 09:49:20.216:WARN:osjs.SecurityHandler:main: ServletContext@o.s.j.s.ServletContextHandler@2a32de6c{/,null,STARTING} has uncovered http methods for path: /
+2019-04-17 09:49:20.222:INFO:osjsh.ContextHandler:main: Started o.s.j.s.ServletContextHandler@2a32de6c{/,null,AVAILABLE}
+2019-04-17 09:49:20.256:INFO:osjs.AbstractConnector:main: Started ServerConnector@418e7838{HTTP/1.1,[http/1.1]}{0.0.0.0:4444}
+2019-04-17 09:49:20.257:INFO:osjs.Server:main: Started @582ms
+09:49:20.258 INFO - Selenium Server is up and running on port 4444
+2019-04-17 09:49:20.630:INFO:osjshC.ROOT:qtp2083117811-18: org.openqa.selenium.remote.server.WebDriverServlet-345965f2: Initialising WebDriverServlet
+09:49:20.680 INFO - Found handler: org.openqa.selenium.remote.server.commandhandler.BeginSession@4b9d70b0
+09:49:20.684 INFO - /session: Executing POST on /session (handler: BeginSession)
+09:49:20.748 INFO - Capabilities are: Capabilities {acceptSslCerts: true, browserName: internet explorer, name: Index}
+09:49:20.750 INFO - Capabilities {acceptSslCerts: true, browserName: internet explorer, name: Index} matched class org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.ie.InternetExplorerDriverService)
+/Users/Jiaoguanwen/Projects/e2e-nightwatch-playground/bin/IEDriverServer.exe: /Users/Jiaoguanwen/Projects/e2e-nightwatch-playground/bin/IEDriverServer.exe: cannot execute binary file
+09:49:40.791 ERROR - org.apache.commons.exec.ExecuteException: Process exited with an error: 126 (Exit value: 126)
